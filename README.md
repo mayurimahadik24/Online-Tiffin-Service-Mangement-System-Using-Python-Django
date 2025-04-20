@@ -6,6 +6,7 @@ Django Project README
 Python 3.6 or higher
 Django 3.0 or higher
 SQLite 3 or higher
+
 [II]Running the Project:
 
 Create the SQLite database by running the following command: python manage.py migrate
@@ -25,9 +26,8 @@ admin password -admin123
 11910617
 11910616
 11910615
+
 [V]Details for some Users
-
-
 username-Mayuri password-shamalmr24
 username-praj password-pspp2417
 
